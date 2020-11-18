@@ -6,3 +6,4 @@ let's prictice second edit
 Git has a mutable index called stage.
 understand how git tracks changes
 practice git restore
+day two practice
